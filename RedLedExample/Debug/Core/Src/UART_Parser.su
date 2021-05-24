@@ -1,0 +1,4 @@
+UART_Parser.c:14:6:HAL_UART_RxCpltCallback	24	static
+UART_Parser.c:30:15:UARTParserInit	16	static
+UART_Parser.c:44:15:TransmitCommandVia_UART	40	static
+UART_Parser.c:58:15:Commands_Processing	16	static

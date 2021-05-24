@@ -1,0 +1,7 @@
+circularMemory.c:10:6:CBufINIT	16	static
+circularMemory.c:16:5:CBufIsEmpty	16	static
+circularMemory.c:25:5:CBufGetTail	16	static
+circularMemory.c:29:5:CBufGetHead	16	static
+circularMemory.c:33:5:CBufRead	16	static
+circularMemory.c:64:5:CBufWrite	24	static
+circularMemory.c:91:6:CircularIndexCTRL	16	static

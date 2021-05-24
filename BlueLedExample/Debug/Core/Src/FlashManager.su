@@ -1,0 +1,3 @@
+FlashManager.c:9:6:FlashErase	24	static
+FlashManager.c:37:6:WriteProgram	32	static
+FlashManager.c:50:6:JumpTo	32	static,ignoring_inline_asm
